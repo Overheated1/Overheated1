@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overheated1&show_icons=true&locale=en&layout=compact" alt="overheated1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overheated1&show_icons=true&locale=en" alt="overheated1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=overheated1&show_icons=true" alt="overheated1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overheated1&" alt="overheated1" /></p>
 
